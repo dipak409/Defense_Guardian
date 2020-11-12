@@ -1,0 +1,2 @@
+# Defense_Guardian
+Tower defense games understand a tower as an object, fixed in place, that is used to shoot at enemies to stop them from reaching an objective point. Towers can also perform non-attack effects, like slowing enemies down, or generating more currency for a player to buy even more towers. The player will often have the option to upgrade towers to higher levels to make them more powerful or have a longer range.
